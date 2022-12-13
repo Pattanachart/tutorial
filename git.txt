@@ -1,3 +1,4 @@
 version control GIT 1 GIT
 Update github git.txt
 update github from web
+update 2 PC to git 
