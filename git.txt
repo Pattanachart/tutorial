@@ -1,6 +1,1 @@
-version control GIT 1 GIT
-Update github git.txt
-update github from web
-update PC TO github 
-blablabla
-test 15/12/2565
+GIT write WEB
